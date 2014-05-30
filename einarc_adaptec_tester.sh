@@ -40,7 +40,7 @@ _err() {
 }
 
 generic_test() {
-  out_dir="$tmp_dir"/controller_"$controller_num"/"$test_no"_"${command/\ /_}"
+  out_dir="${tmp_dir}/controller_${controller_num}/${test_no}_${command/\ /_}"
   mkdir -p "$out_dir"
 
   echo "$command" > "$out_dir"/command.txt
