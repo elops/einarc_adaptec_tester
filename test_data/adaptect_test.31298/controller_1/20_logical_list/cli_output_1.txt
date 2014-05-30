@@ -1,0 +1,35 @@
+Controllers found: 1
+----------------------------------------------------------------------
+Logical device information
+----------------------------------------------------------------------
+Logical device number 0
+   Logical device name                      : primary
+   RAID level                               : 10
+   Status of logical device                 : Optimal
+   Size                                     : 3813366 MB
+   Stripe-unit size                         : 256 KB
+   Read-cache mode                          : Enabled
+   MaxIQ preferred cache setting            : Disabled
+   MaxIQ cache setting                      : Disabled
+   Write-cache mode                         : Enabled (write-back)
+   Write-cache setting                      : Enabled (write-back) when protected by battery/ZMM
+   Partitioned                              : Yes
+   Protected by Hot-Spare                   : No
+   Bootable                                 : Yes
+   Failed stripes                           : No
+   Power settings                           : Disabled
+   --------------------------------------------------------
+   Logical device segment information
+   --------------------------------------------------------
+   Group 0, Segment 0                       : Present (0,5)      WD-WCAW33624632
+   Group 0, Segment 1                       : Present (0,0)      WD-WCAW36538253
+   Group 1, Segment 0                       : Present (0,2)      WD-WMAW31487195
+   Group 1, Segment 1                       : Present (0,3)      WD-WCAW33570106
+   Group 2, Segment 0                       : Present (0,4)      WD-WMAW31435546
+   Group 2, Segment 1                       : Present (0,1)      WD-WMAW30564853
+   Group 3, Segment 0                       : Present (0,6)      WD-WMAW31330379
+   Group 3, Segment 1                       : Present (0,7)      WD-WMAW31588483
+
+
+
+Command completed successfully.

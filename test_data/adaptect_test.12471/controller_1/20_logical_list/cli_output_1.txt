@@ -1,0 +1,36 @@
+Controllers found: 1
+----------------------------------------------------------------------
+Logical device information
+----------------------------------------------------------------------
+Logical device number 0
+   Logical device name                      : site5am1
+   RAID level                               : 10
+   Status of logical device                 : Optimal
+   Size                                     : 1904630 MB
+   Stripe-unit size                         : 256 KB
+   Read-cache setting                       : Enabled
+   Read-cache status                        : On
+   Write-cache setting                      : Enabled
+   Write-cache status                       : On
+   MaxCache read cache setting              : Enabled
+   MaxCache read cache status               : Off
+   Partitioned                              : Yes
+   Protected by Hot-Spare                   : No
+   Bootable                                 : Yes
+   Failed stripes                           : No
+   Power settings                           : Disabled
+   --------------------------------------------------------
+   Logical device segment information
+   --------------------------------------------------------
+   Group 0, Segment 0                       : Present (Controller:1,Enclosure:0,Slot:0)             9WJ171CL
+   Group 0, Segment 1                       : Present (Controller:1,Enclosure:0,Slot:1)             Z1M1NZWA
+   Group 1, Segment 0                       : Present (Controller:1,Enclosure:0,Slot:2)             9WJ174TL
+   Group 1, Segment 1                       : Present (Controller:1,Enclosure:0,Slot:3)             9WJ16RHZ
+   Group 2, Segment 0                       : Present (Controller:1,Enclosure:1,Slot:5)             9WJ174GL
+   Group 2, Segment 1                       : Present (Controller:1,Enclosure:1,Slot:4)             9WJ1MBA6
+   Group 3, Segment 0                       : Present (Controller:1,Enclosure:1,Slot:6)             9WJ16HDF
+   Group 3, Segment 1                       : Present (Controller:1,Enclosure:1,Slot:7)             9WJ15MP8
+
+
+
+Command completed successfully.

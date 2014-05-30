@@ -1,0 +1,65 @@
+Controllers found: 1
+----------------------------------------------------------------------
+Logical device information
+----------------------------------------------------------------------
+Logical device number 0
+   Logical device name                      : RAID10-A
+   RAID level                               : 10
+   Status of logical device                 : Optimal
+   Size                                     : 102390 MB
+   Stripe-unit size                         : 256 KB
+   Read-cache setting                       : Enabled
+   Read-cache status                        : On
+   Write-cache setting                      : On when protected by battery/ZMM
+   Write-cache status                       : On
+   MaxCache read cache setting              : Enabled
+   MaxCache read cache status               : Off
+   Partitioned                              : Yes
+   Protected by Hot-Spare                   : No
+   Bootable                                 : Yes
+   Failed stripes                           : No
+   Power settings                           : Disabled
+   --------------------------------------------------------
+   Logical device segment information
+   --------------------------------------------------------
+   Group 0, Segment 0                       : Present (Controller:1,Enclosure:0,Slot:0)      WD-WCAW32837808
+   Group 0, Segment 1                       : Present (Controller:1,Enclosure:0,Slot:1)      WD-WMAW30240722
+   Group 1, Segment 0                       : Present (Controller:1,Enclosure:0,Slot:3)      WD-WMAW31492839
+   Group 1, Segment 1                       : Present (Controller:1,Enclosure:0,Slot:2)      WD-WCAW36251138
+   Group 2, Segment 0                       : Present (Controller:1,Enclosure:0,Slot:4)      WD-WMAW30109359
+   Group 2, Segment 1                       : Present (Controller:1,Enclosure:0,Slot:5)      WD-WCAW32834807
+   Group 3, Segment 0                       : Present (Controller:1,Enclosure:0,Slot:6)      WD-WCAW31839729
+   Group 3, Segment 1                       : Present (Controller:1,Enclosure:0,Slot:7)      WD-WMAW30262693
+
+Logical device number 1
+   Logical device name                      : RAID10-B
+   RAID level                               : 10
+   Status of logical device                 : Optimal
+   Size                                     : 3710962 MB
+   Stripe-unit size                         : 256 KB
+   Read-cache setting                       : Enabled
+   Read-cache status                        : On
+   Write-cache setting                      : On when protected by battery/ZMM
+   Write-cache status                       : On
+   MaxCache read cache setting              : Enabled
+   MaxCache read cache status               : Off
+   Partitioned                              : Yes
+   Protected by Hot-Spare                   : No
+   Bootable                                 : No
+   Failed stripes                           : No
+   Power settings                           : Disabled
+   --------------------------------------------------------
+   Logical device segment information
+   --------------------------------------------------------
+   Group 0, Segment 0                       : Present (Controller:1,Enclosure:0,Slot:0)      WD-WCAW32837808
+   Group 0, Segment 1                       : Present (Controller:1,Enclosure:0,Slot:1)      WD-WMAW30240722
+   Group 1, Segment 0                       : Present (Controller:1,Enclosure:0,Slot:3)      WD-WMAW31492839
+   Group 1, Segment 1                       : Present (Controller:1,Enclosure:0,Slot:2)      WD-WCAW36251138
+   Group 2, Segment 0                       : Present (Controller:1,Enclosure:0,Slot:4)      WD-WMAW30109359
+   Group 2, Segment 1                       : Present (Controller:1,Enclosure:0,Slot:5)      WD-WCAW32834807
+   Group 3, Segment 0                       : Present (Controller:1,Enclosure:0,Slot:6)      WD-WCAW31839729
+   Group 3, Segment 1                       : Present (Controller:1,Enclosure:0,Slot:7)      WD-WMAW30262693
+
+
+
+Command completed successfully.

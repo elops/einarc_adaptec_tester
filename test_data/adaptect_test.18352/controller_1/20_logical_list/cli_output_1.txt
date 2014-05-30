@@ -1,0 +1,69 @@
+Controllers found: 1
+----------------------------------------------------------------------
+Logical device information
+----------------------------------------------------------------------
+Logical device number 0
+   Logical device name                      : RAID10-A
+   RAID level                               : 10
+   Status of logical device                 : Optimal
+   Size                                     : 102386 MB
+   Stripe-unit size                         : 256 KB
+   Read-cache setting                       : Enabled
+   Read-cache status                        : On
+   Write-cache setting                      : On when protected by battery/ZMM
+   Write-cache status                       : On
+   Partitioned                              : Yes
+   Protected by Hot-Spare                   : No
+   Bootable                                 : Yes
+   Failed stripes                           : No
+   Power settings                           : Disabled
+   --------------------------------------------------------
+   Logical device segment information
+   --------------------------------------------------------
+   Group 0, Segment 0                       : Present (Controller:1,Enclosure:0,Slot:0)      WD-WCAW36007029
+   Group 0, Segment 1                       : Present (Controller:1,Enclosure:0,Slot:1)      WD-WCAW36022413
+   Group 1, Segment 0                       : Present (Controller:1,Enclosure:0,Slot:2)      WD-WCAW36011446
+   Group 1, Segment 1                       : Present (Controller:1,Enclosure:0,Slot:3)      WD-WCAW36034896
+   Group 2, Segment 0                       : Present (Controller:1,Enclosure:0,Slot:4)      WD-WCAW35990831
+   Group 2, Segment 1                       : Present (Controller:1,Enclosure:0,Slot:5)      WD-WCAW36001269
+   Group 3, Segment 0                       : Present (Controller:1,Enclosure:0,Slot:6)      WD-WCAW36056177
+   Group 3, Segment 1                       : Present (Controller:1,Enclosure:0,Slot:7)      WD-WCAW36096674
+   Group 4, Segment 0                       : Present (Controller:1,Enclosure:0,Slot:8)      WD-WCAW35966673
+   Group 4, Segment 1                       : Present (Controller:1,Enclosure:0,Slot:9)      WD-WCAW35991286
+   Group 5, Segment 0                       : Present (Controller:1,Enclosure:0,Slot:10)      WD-WCAW36036865
+   Group 5, Segment 1                       : Present (Controller:1,Enclosure:0,Slot:11)      WD-WCAW36001355
+
+Logical device number 1
+   Logical device name                      : RAID10-B
+   RAID level                               : 10
+   Status of logical device                 : Optimal
+   Size                                     : 5617658 MB
+   Stripe-unit size                         : 256 KB
+   Read-cache setting                       : Enabled
+   Read-cache status                        : On
+   Write-cache setting                      : On when protected by battery/ZMM
+   Write-cache status                       : On
+   Partitioned                              : Yes
+   Protected by Hot-Spare                   : No
+   Bootable                                 : No
+   Failed stripes                           : No
+   Power settings                           : Disabled
+   --------------------------------------------------------
+   Logical device segment information
+   --------------------------------------------------------
+   Group 0, Segment 0                       : Present (Controller:1,Enclosure:0,Slot:0)      WD-WCAW36007029
+   Group 0, Segment 1                       : Present (Controller:1,Enclosure:0,Slot:1)      WD-WCAW36022413
+   Group 1, Segment 0                       : Present (Controller:1,Enclosure:0,Slot:2)      WD-WCAW36011446
+   Group 1, Segment 1                       : Present (Controller:1,Enclosure:0,Slot:3)      WD-WCAW36034896
+   Group 2, Segment 0                       : Present (Controller:1,Enclosure:0,Slot:4)      WD-WCAW35990831
+   Group 2, Segment 1                       : Present (Controller:1,Enclosure:0,Slot:5)      WD-WCAW36001269
+   Group 3, Segment 0                       : Present (Controller:1,Enclosure:0,Slot:6)      WD-WCAW36056177
+   Group 3, Segment 1                       : Present (Controller:1,Enclosure:0,Slot:7)      WD-WCAW36096674
+   Group 4, Segment 0                       : Present (Controller:1,Enclosure:0,Slot:8)      WD-WCAW35966673
+   Group 4, Segment 1                       : Present (Controller:1,Enclosure:0,Slot:9)      WD-WCAW35991286
+   Group 5, Segment 0                       : Present (Controller:1,Enclosure:0,Slot:10)      WD-WCAW36036865
+   Group 5, Segment 1                       : Present (Controller:1,Enclosure:0,Slot:11)      WD-WCAW36001355
+
+
+
+Command completed successfully.

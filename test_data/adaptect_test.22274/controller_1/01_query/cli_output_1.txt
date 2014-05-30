@@ -1,0 +1,283 @@
+Controllers found: 1
+----------------------------------------------------------------------
+Controller information
+----------------------------------------------------------------------
+   Controller Status                        : Optimal
+   Channel description                      : SAS/SATA
+   Controller Model                         : Adaptec 5805
+   Controller Serial Number                 : 1D3211B638B
+   Physical Slot                            : 5
+   Temperature                              : 71 C/ 159 F (Normal)
+   Installed memory                         : 512 MB
+   Copyback                                 : Disabled
+   Background consistency check             : Disabled
+   Automatic Failover                       : Enabled
+   Global task priority                     : Low
+   Performance Mode                         : Default/Dynamic
+   Stayawake period                         : Disabled
+   Spinup limit internal drives             : 0
+   Spinup limit external drives             : 0
+   Defunct disk drive count                 : 0
+   Logical devices/Failed/Degraded          : 1/0/0
+   SSDs assigned to MaxCache pool           : 0
+   Maximum SSDs allowed in MaxCache pool    : 8
+   MaxCache Read Cache Pool Size            : 0.000 GB
+   MaxCache flush and fetch rate            : 0
+   MaxCache Read, Write Balance Factor      : 3,1
+   NCQ status                               : Enabled
+   Statistics data collection mode          : Enabled
+   --------------------------------------------------------
+   Controller Version Information
+   --------------------------------------------------------
+   BIOS                                     : 5.2-0 (18252)
+   Firmware                                 : 5.2-0 (18252)
+   Driver                                   : 1.2-0 (30200)
+   Boot Flash                               : 5.2-0 (18252)
+   --------------------------------------------------------
+   Controller Battery Information
+   --------------------------------------------------------
+   Status                                   : Optimal
+   Over temperature                         : No
+   Capacity remaining                       : 99 percent
+   Time remaining (at current draw)         : 1 days, 19 hours, 55 minutes
+
+----------------------------------------------------------------------
+Logical device information
+----------------------------------------------------------------------
+Logical device number 0
+   Logical device name                      : Primary
+   RAID level                               : 10
+   Status of logical device                 : Optimal
+   Size                                     : 3813366 MB
+   Stripe-unit size                         : 256 KB
+   Read-cache setting                       : Disabled
+   Read-cache status                        : Off
+   Write-cache setting                      : Disabled
+   Write-cache status                       : Off
+   MaxCache read cache setting              : Disabled
+   MaxCache read cache status               : Off
+   Partitioned                              : Yes
+   Protected by Hot-Spare                   : No
+   Bootable                                 : Yes
+   Failed stripes                           : No
+   Power settings                           : Disabled
+   --------------------------------------------------------
+   Logical device segment information
+   --------------------------------------------------------
+   Group 0, Segment 0                       : Present (Controller:1,Connector:0,Device:0)      WD-WMAW30565987
+   Group 0, Segment 1                       : Present (Controller:1,Connector:0,Device:1)      WD-WMAW30559044
+   Group 1, Segment 0                       : Present (Controller:1,Connector:0,Device:2)             Z1W03RVX
+   Group 1, Segment 1                       : Present (Controller:1,Connector:0,Device:3)      WD-WMAW30559569
+   Group 2, Segment 0                       : Present (Controller:1,Connector:1,Device:0)      WD-WMAW30559098
+   Group 2, Segment 1                       : Present (Controller:1,Connector:1,Device:1)      WD-WMAW30559313
+   Group 3, Segment 0                       : Present (Controller:1,Connector:1,Device:2)      WD-WMAW30551468
+   Group 3, Segment 1                       : Present (Controller:1,Connector:1,Device:3)      WD-WMAW30560578
+
+
+----------------------------------------------------------------------
+Physical Device information
+----------------------------------------------------------------------
+      Device #0
+         Device is a Hard drive
+         State                              : Online
+         Supported                          : Yes
+         Transfer Speed                     : SATA 3.0 Gb/s
+         Reported Channel,Device(T:L)       : 0,0(0:0)
+         Reported Location                  : Connector 0, Device 0
+         Vendor                             : WDC
+         Model                              : WD1003FBYX-0
+         Firmware                           : 01.01V02
+         Serial number                      : WD-WMAW30565987
+         Reserved Size                      : 538264 KB
+         Used Size                          : 953344 MB
+         Unused Size                        : 64 KB
+         Total Size                         : 953869 MB
+         Write Cache                        : Enabled (write-back)
+         FRU                                : None
+         S.M.A.R.T.                         : No
+         S.M.A.R.T. warnings                : 0
+         Power State                        : Full rpm
+         Supported Power States             : Full rpm,Powered off,Reduced rpm
+         SSD                                : No
+         MaxCache Capable                   : No
+         MaxCache Assigned                  : No
+         NCQ status                         : Enabled
+      Device #1
+         Device is a Hard drive
+         State                              : Online
+         Supported                          : Yes
+         Transfer Speed                     : SATA 3.0 Gb/s
+         Reported Channel,Device(T:L)       : 0,1(1:0)
+         Reported Location                  : Connector 0, Device 1
+         Vendor                             : WDC
+         Model                              : WD1003FBYX-0
+         Firmware                           : 01.01V02
+         Serial number                      : WD-WMAW30559044
+         Reserved Size                      : 538264 KB
+         Used Size                          : 953344 MB
+         Unused Size                        : 64 KB
+         Total Size                         : 953869 MB
+         Write Cache                        : Enabled (write-back)
+         FRU                                : None
+         S.M.A.R.T.                         : No
+         S.M.A.R.T. warnings                : 0
+         Power State                        : Full rpm
+         Supported Power States             : Full rpm,Powered off,Reduced rpm
+         SSD                                : No
+         MaxCache Capable                   : No
+         MaxCache Assigned                  : No
+         NCQ status                         : Enabled
+      Device #2
+         Device is a Hard drive
+         State                              : Online
+         Supported                          : Yes
+         Transfer Speed                     : SATA 3.0 Gb/s
+         Reported Channel,Device(T:L)       : 0,2(2:0)
+         Reported Location                  : Connector 0, Device 2
+         Vendor                             : 
+         Model                              : ST1000NM0033-9ZM
+         Firmware                           : 0001
+         Serial number                      : Z1W03RVX
+         Reserved Size                      : 538264 KB
+         Used Size                          : 953344 MB
+         Unused Size                        : 64 KB
+         Total Size                         : 953869 MB
+         Write Cache                        : Enabled (write-back)
+         FRU                                : None
+         S.M.A.R.T.                         : No
+         S.M.A.R.T. warnings                : 0
+         Power State                        : Full rpm
+         Supported Power States             : Full rpm,Powered off
+         SSD                                : No
+         MaxCache Capable                   : No
+         MaxCache Assigned                  : No
+         NCQ status                         : Enabled
+      Device #3
+         Device is a Hard drive
+         State                              : Online
+         Supported                          : Yes
+         Transfer Speed                     : SATA 3.0 Gb/s
+         Reported Channel,Device(T:L)       : 0,3(3:0)
+         Reported Location                  : Connector 0, Device 3
+         Vendor                             : WDC
+         Model                              : WD1003FBYX-0
+         Firmware                           : 01.01V02
+         Serial number                      : WD-WMAW30559569
+         Reserved Size                      : 538264 KB
+         Used Size                          : 953344 MB
+         Unused Size                        : 64 KB
+         Total Size                         : 953869 MB
+         Write Cache                        : Enabled (write-back)
+         FRU                                : None
+         S.M.A.R.T.                         : No
+         S.M.A.R.T. warnings                : 0
+         Power State                        : Full rpm
+         Supported Power States             : Full rpm,Powered off,Reduced rpm
+         SSD                                : No
+         MaxCache Capable                   : No
+         MaxCache Assigned                  : No
+         NCQ status                         : Enabled
+      Device #4
+         Device is a Hard drive
+         State                              : Online
+         Supported                          : Yes
+         Transfer Speed                     : SATA 3.0 Gb/s
+         Reported Channel,Device(T:L)       : 0,4(4:0)
+         Reported Location                  : Connector 1, Device 0
+         Vendor                             : WDC
+         Model                              : WD1003FBYX-0
+         Firmware                           : 01.01V02
+         Serial number                      : WD-WMAW30559098
+         Reserved Size                      : 538264 KB
+         Used Size                          : 953344 MB
+         Unused Size                        : 64 KB
+         Total Size                         : 953869 MB
+         Write Cache                        : Enabled (write-back)
+         FRU                                : None
+         S.M.A.R.T.                         : No
+         S.M.A.R.T. warnings                : 0
+         Power State                        : Full rpm
+         Supported Power States             : Full rpm,Powered off,Reduced rpm
+         SSD                                : No
+         MaxCache Capable                   : No
+         MaxCache Assigned                  : No
+         NCQ status                         : Enabled
+      Device #5
+         Device is a Hard drive
+         State                              : Online
+         Supported                          : Yes
+         Transfer Speed                     : SATA 3.0 Gb/s
+         Reported Channel,Device(T:L)       : 0,5(5:0)
+         Reported Location                  : Connector 1, Device 1
+         Vendor                             : WDC
+         Model                              : WD1003FBYX-0
+         Firmware                           : 01.01V02
+         Serial number                      : WD-WMAW30559313
+         Reserved Size                      : 538264 KB
+         Used Size                          : 953344 MB
+         Unused Size                        : 64 KB
+         Total Size                         : 953869 MB
+         Write Cache                        : Enabled (write-back)
+         FRU                                : None
+         S.M.A.R.T.                         : No
+         S.M.A.R.T. warnings                : 0
+         Power State                        : Full rpm
+         Supported Power States             : Full rpm,Powered off,Reduced rpm
+         SSD                                : No
+         MaxCache Capable                   : No
+         MaxCache Assigned                  : No
+         NCQ status                         : Enabled
+      Device #6
+         Device is a Hard drive
+         State                              : Online
+         Supported                          : Yes
+         Transfer Speed                     : SATA 3.0 Gb/s
+         Reported Channel,Device(T:L)       : 0,6(6:0)
+         Reported Location                  : Connector 1, Device 2
+         Vendor                             : WDC
+         Model                              : WD1003FBYX-0
+         Firmware                           : 01.01V02
+         Serial number                      : WD-WMAW30551468
+         Reserved Size                      : 538264 KB
+         Used Size                          : 953344 MB
+         Unused Size                        : 64 KB
+         Total Size                         : 953869 MB
+         Write Cache                        : Enabled (write-back)
+         FRU                                : None
+         S.M.A.R.T.                         : No
+         S.M.A.R.T. warnings                : 0
+         Power State                        : Full rpm
+         Supported Power States             : Full rpm,Powered off,Reduced rpm
+         SSD                                : No
+         MaxCache Capable                   : No
+         MaxCache Assigned                  : No
+         NCQ status                         : Enabled
+      Device #7
+         Device is a Hard drive
+         State                              : Online
+         Supported                          : Yes
+         Transfer Speed                     : SATA 3.0 Gb/s
+         Reported Channel,Device(T:L)       : 0,7(7:0)
+         Reported Location                  : Connector 1, Device 3
+         Vendor                             : WDC
+         Model                              : WD1003FBYX-0
+         Firmware                           : 01.01V02
+         Serial number                      : WD-WMAW30560578
+         Reserved Size                      : 538264 KB
+         Used Size                          : 953344 MB
+         Unused Size                        : 64 KB
+         Total Size                         : 953869 MB
+         Write Cache                        : Enabled (write-back)
+         FRU                                : None
+         S.M.A.R.T.                         : No
+         S.M.A.R.T. warnings                : 0
+         Power State                        : Full rpm
+         Supported Power States             : Full rpm,Powered off,Reduced rpm
+         SSD                                : No
+         MaxCache Capable                   : No
+         MaxCache Assigned                  : No
+         NCQ status                         : Enabled
+
+
+
+Command completed successfully.

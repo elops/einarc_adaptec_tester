@@ -1,0 +1,36 @@
+Controllers found: 1
+----------------------------------------------------------------------
+Logical device information
+----------------------------------------------------------------------
+Logical device number 0
+   Logical device name                      : RAID10-A
+   RAID level                               : 10
+   Status of logical device                 : Optimal
+   Size                                     : 1904630 MB
+   Stripe-unit size                         : 256 KB
+   Read-cache setting                       : Enabled
+   Read-cache status                        : On
+   Write-cache setting                      : On when protected by battery/ZMM
+   Write-cache status                       : On
+   MaxCache read cache setting              : Disabled
+   MaxCache read cache status               : Off
+   Partitioned                              : Yes
+   Protected by Hot-Spare                   : No
+   Bootable                                 : Yes
+   Failed stripes                           : No
+   Power settings                           : Disabled
+   --------------------------------------------------------
+   Logical device segment information
+   --------------------------------------------------------
+   Group 0, Segment 0                       : Present (Controller:1,Enclosure:0,Slot:0)      WD-WCASYE668101
+   Group 0, Segment 1                       : Present (Controller:1,Enclosure:0,Slot:1)      WD-WCASYE668192
+   Group 1, Segment 0                       : Present (Controller:1,Enclosure:0,Slot:2)      WD-WCASYF289176
+   Group 1, Segment 1                       : Present (Controller:1,Enclosure:0,Slot:3)      WD-WCASYF442510
+   Group 2, Segment 0                       : Present (Controller:1,Enclosure:0,Slot:4)      WD-WCASYF301205
+   Group 2, Segment 1                       : Present (Controller:1,Enclosure:0,Slot:5)      WD-WCASYE196590
+   Group 3, Segment 0                       : Present (Controller:1,Enclosure:0,Slot:6)      WD-WCASYE667732
+   Group 3, Segment 1                       : Present (Controller:1,Enclosure:0,Slot:7)      WD-WCASYD154806
+
+
+
+Command completed successfully.

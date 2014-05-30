@@ -1,0 +1,41 @@
+Controllers found: 1
+----------------------------------------------------------------------
+Controller information
+----------------------------------------------------------------------
+   Controller Status                        : Optimal
+   Channel description                      : SAS/SATA
+   Controller Model                         : Adaptec 5805
+   Controller Serial Number                 : 1D3511BC74D
+   Physical Slot                            : 2
+   Temperature                              : 55 C/ 131 F (Normal)
+   Installed memory                         : 512 MB
+   Copyback                                 : Disabled
+   Background consistency check             : Disabled
+   Automatic Failover                       : Enabled
+   Global task priority                     : High
+   Performance Mode                         : Default/Dynamic
+   Stayawake period                         : Disabled
+   Spinup limit internal drives             : 0
+   Spinup limit external drives             : 0
+   Defunct disk drive count                 : 0
+   Logical devices/Failed/Degraded          : 1/0/0
+   SSDs assigned to MaxIQ Cache pool        : 0
+   Maximum SSDs allowed in MaxIQ Cache pool : 8
+   NCQ status                               : Enabled
+   --------------------------------------------------------
+   Controller Version Information
+   --------------------------------------------------------
+   BIOS                                     : 5.2-0 (18252)
+   Firmware                                 : 5.2-0 (18252)
+   Driver                                   : 1.2-0 (30200)
+   Boot Flash                               : 5.2-0 (18252)
+   --------------------------------------------------------
+   Controller Battery Information
+   --------------------------------------------------------
+   Status                                   : Optimal
+   Over temperature                         : No
+   Capacity remaining                       : 98 percent
+   Time remaining (at current draw)         : 3 days, 6 hours, 52 minutes
+
+
+Command completed successfully.

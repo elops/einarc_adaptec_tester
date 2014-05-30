@@ -1,0 +1,65 @@
+Controllers found: 1
+----------------------------------------------------------------------
+Logical device information
+----------------------------------------------------------------------
+Logical device number 0
+   Logical device name                      : main
+   RAID level                               : 10
+   Status of logical device                 : Optimal
+   Size                                     : 56310 MB
+   Stripe-unit size                         : 64 KB
+   Read-cache setting                       : Enabled
+   Read-cache status                        : On
+   Write-cache setting                      : On when protected by battery/ZMM
+   Write-cache status                       : On
+   MaxCache read cache setting              : Enabled
+   MaxCache read cache status               : Off
+   Partitioned                              : Yes
+   Protected by Hot-Spare                   : No
+   Bootable                                 : Yes
+   Failed stripes                           : No
+   Power settings                           : Disabled
+   --------------------------------------------------------
+   Logical device segment information
+   --------------------------------------------------------
+   Group 0, Segment 0                       : Present (Controller:1,Connector:0,Device:0)             Z1D4F72B
+   Group 0, Segment 1                       : Present (Controller:1,Connector:0,Device:1)             Z1D4F64G
+   Group 1, Segment 0                       : Present (Controller:1,Connector:0,Device:2)             Z1D4F65E
+   Group 1, Segment 1                       : Present (Controller:1,Connector:0,Device:3)             Z1D4F73T
+   Group 2, Segment 0                       : Present (Controller:1,Connector:1,Device:0)             Z1D4F65S
+   Group 2, Segment 1                       : Present (Controller:1,Connector:1,Device:1)             Z1D4F647
+   Group 3, Segment 0                       : Present (Controller:1,Connector:1,Device:2)             Z1D4F6CH
+   Group 3, Segment 1                       : Present (Controller:1,Connector:1,Device:3)             Z1D4F5YP
+
+Logical device number 1
+   Logical device name                      : driskill
+   RAID level                               : 10
+   Status of logical device                 : Optimal
+   Size                                     : 3757042 MB
+   Stripe-unit size                         : 64 KB
+   Read-cache setting                       : Enabled
+   Read-cache status                        : On
+   Write-cache setting                      : On when protected by battery/ZMM
+   Write-cache status                       : On
+   MaxCache read cache setting              : Enabled
+   MaxCache read cache status               : Off
+   Partitioned                              : Yes
+   Protected by Hot-Spare                   : No
+   Bootable                                 : No
+   Failed stripes                           : No
+   Power settings                           : Disabled
+   --------------------------------------------------------
+   Logical device segment information
+   --------------------------------------------------------
+   Group 0, Segment 0                       : Present (Controller:1,Connector:0,Device:0)             Z1D4F72B
+   Group 0, Segment 1                       : Present (Controller:1,Connector:0,Device:1)             Z1D4F64G
+   Group 1, Segment 0                       : Present (Controller:1,Connector:0,Device:2)             Z1D4F65E
+   Group 1, Segment 1                       : Present (Controller:1,Connector:0,Device:3)             Z1D4F73T
+   Group 2, Segment 0                       : Present (Controller:1,Connector:1,Device:0)             Z1D4F65S
+   Group 2, Segment 1                       : Present (Controller:1,Connector:1,Device:1)             Z1D4F647
+   Group 3, Segment 0                       : Present (Controller:1,Connector:1,Device:2)             Z1D4F6CH
+   Group 3, Segment 1                       : Present (Controller:1,Connector:1,Device:3)             Z1D4F5YP
+
+
+
+Command completed successfully.

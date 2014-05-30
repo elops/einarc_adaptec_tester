@@ -1,0 +1,428 @@
+Controllers found: 1
+----------------------------------------------------------------------
+Controller information
+----------------------------------------------------------------------
+   Controller Status                        : Optimal
+   Controller Mode                          : Default/RAID
+   Channel description                      : SAS/SATA
+   Controller Model                         : Adaptec ASR71605
+   Controller Serial Number                 : 3A32133CD0C
+   Physical Slot                            : 5
+   Temperature                              : 48 C/ 118 F (Normal)
+   Installed memory                         : 1024 MB
+   Copyback                                 : Disabled
+   Background consistency check             : Disabled
+   Automatic Failover                       : Enabled
+   Global task priority                     : High
+   Performance Mode                         : Default/Dynamic
+   Stayawake period                         : Disabled
+   Spinup limit internal drives             : 0
+   Spinup limit external drives             : 0
+   Defunct disk drive count                 : 0
+   Logical devices/Failed/Degraded          : 2/0/0
+   NCQ status                               : Enabled
+   Statistics data collection mode          : Disabled
+   --------------------------------------------------------
+   Controller Version Information
+   --------------------------------------------------------
+   BIOS                                     : 7.3-0 (30612)
+   Firmware                                 : 7.3-0 (30612)
+   Driver                                   : 1.2-0 (30200)
+   Boot Flash                               : 7.3-0 (30612)
+
+   --------------------------------------------------------
+   Controller Cache Backup Unit Information
+   --------------------------------------------------------
+
+    Overall Backup Unit Status              : Ready
+
+         Backup Unit Type                   : AFM-700/700 LP
+         Non-Volatile Storage Status        : Ready
+         Supercap Status                    : Ready
+
+         -----------------------------------
+         Supercap Information               
+         -----------------------------------
+         Current Temperature                : 26 deg C
+         Threshold Temperature              : 51 deg C
+         Life-time Temperature Recorded     
+         (Min/Max)                          : 22 deg C/ 31 deg C
+
+         Voltage(Present/Max)               : 4909 mV/ 5302 mV
+         Life-time Max Voltage Recorded     : 5458 mV
+
+         Current Drawn(Present/Max)         : 0 mA/ 560 mA
+         Health                             : 100 percent
+         Charge Level                       : 100 percent
+         Estimated Life-time                : 1280 Years, 0 Month
+
+----------------------------------------------------------------------
+Logical device information
+----------------------------------------------------------------------
+Logical device number 0
+   Logical device name                      : RAID10-A
+   RAID level                               : 10
+   Status of logical device                 : Optimal
+   Size                                     : 102386 MB
+   Stripe-unit size                         : 256 KB
+   Read-cache setting                       : Enabled
+   Read-cache status                        : On
+   Write-cache setting                      : On when protected by battery/ZMM
+   Write-cache status                       : On
+   Partitioned                              : Yes
+   Protected by Hot-Spare                   : No
+   Bootable                                 : Yes
+   Failed stripes                           : No
+   Power settings                           : Disabled
+   --------------------------------------------------------
+   Logical device segment information
+   --------------------------------------------------------
+   Group 0, Segment 0                       : Present (Controller:1,Enclosure:0,Slot:0)      WD-WCAW33502955
+   Group 0, Segment 1                       : Present (Controller:1,Enclosure:0,Slot:1)      WD-WCAW33503882
+   Group 1, Segment 0                       : Present (Controller:1,Enclosure:0,Slot:2)      WD-WCAW33600264
+   Group 1, Segment 1                       : Present (Controller:1,Enclosure:0,Slot:3)      WD-WCAW33460248
+   Group 2, Segment 0                       : Present (Controller:1,Enclosure:0,Slot:4)      WD-WMAW30415878
+   Group 2, Segment 1                       : Present (Controller:1,Enclosure:0,Slot:5)      WD-WMAW30334283
+   Group 3, Segment 0                       : Present (Controller:1,Enclosure:0,Slot:6)      WD-WMAW30343017
+   Group 3, Segment 1                       : Present (Controller:1,Enclosure:0,Slot:7)      WD-WCAW33458526
+   Group 4, Segment 0                       : Present (Controller:1,Enclosure:0,Slot:8)      WD-WCAW35107808
+   Group 4, Segment 1                       : Present (Controller:1,Enclosure:0,Slot:9)      WD-WMAW30281173
+   Group 5, Segment 0                       : Present (Controller:1,Enclosure:0,Slot:10)      WD-WMAW30262821
+   Group 5, Segment 1                       : Present (Controller:1,Enclosure:0,Slot:11)      WD-WMAW30271398
+
+Logical device number 1
+   Logical device name                      : RAID10-B
+   RAID level                               : 10
+   Status of logical device                 : Optimal
+   Size                                     : 5617658 MB
+   Stripe-unit size                         : 256 KB
+   Read-cache setting                       : Enabled
+   Read-cache status                        : On
+   Write-cache setting                      : On when protected by battery/ZMM
+   Write-cache status                       : On
+   Partitioned                              : Yes
+   Protected by Hot-Spare                   : No
+   Bootable                                 : No
+   Failed stripes                           : No
+   Power settings                           : Disabled
+   --------------------------------------------------------
+   Logical device segment information
+   --------------------------------------------------------
+   Group 0, Segment 0                       : Present (Controller:1,Enclosure:0,Slot:0)      WD-WCAW33502955
+   Group 0, Segment 1                       : Present (Controller:1,Enclosure:0,Slot:1)      WD-WCAW33503882
+   Group 1, Segment 0                       : Present (Controller:1,Enclosure:0,Slot:2)      WD-WCAW33600264
+   Group 1, Segment 1                       : Present (Controller:1,Enclosure:0,Slot:3)      WD-WCAW33460248
+   Group 2, Segment 0                       : Present (Controller:1,Enclosure:0,Slot:4)      WD-WMAW30415878
+   Group 2, Segment 1                       : Present (Controller:1,Enclosure:0,Slot:5)      WD-WMAW30334283
+   Group 3, Segment 0                       : Present (Controller:1,Enclosure:0,Slot:6)      WD-WMAW30343017
+   Group 3, Segment 1                       : Present (Controller:1,Enclosure:0,Slot:7)      WD-WCAW33458526
+   Group 4, Segment 0                       : Present (Controller:1,Enclosure:0,Slot:8)      WD-WCAW35107808
+   Group 4, Segment 1                       : Present (Controller:1,Enclosure:0,Slot:9)      WD-WMAW30281173
+   Group 5, Segment 0                       : Present (Controller:1,Enclosure:0,Slot:10)      WD-WMAW30262821
+   Group 5, Segment 1                       : Present (Controller:1,Enclosure:0,Slot:11)      WD-WMAW30271398
+
+
+----------------------------------------------------------------------
+Physical Device information
+----------------------------------------------------------------------
+      Device #0
+         Device is a Hard drive
+         State                              : Online
+         Supported                          : Yes
+         Transfer Speed                     : SATA 3.0 Gb/s
+         Reported Channel,Device(T:L)       : 0,0(0:0)
+         Reported Location                  : Enclosure 0, Slot 0
+         Reported ESD(T:L)                  : 2,0(0:0)
+         Vendor                             : ATA
+         Model                              : WDC WD1003FBYX-0
+         Firmware                           : 01.01V02
+         Serial number                      : WD-WCAW33502955
+         Reserved Size                      : 538264 KB
+         Used Size                          : 953344 MB
+         Unused Size                        : 64 KB
+         Total Size                         : 953869 MB
+         Write Cache                        : Enabled (write-back)
+         FRU                                : None
+         S.M.A.R.T.                         : No
+         S.M.A.R.T. warnings                : 0
+         Power State                        : Full rpm
+         Supported Power States             : Full rpm,Powered off,Reduced rpm
+         SSD                                : No
+         NCQ status                         : Enabled
+      Device #1
+         Device is a Hard drive
+         State                              : Online
+         Supported                          : Yes
+         Transfer Speed                     : SATA 3.0 Gb/s
+         Reported Channel,Device(T:L)       : 0,1(1:0)
+         Reported Location                  : Enclosure 0, Slot 1
+         Reported ESD(T:L)                  : 2,0(0:0)
+         Vendor                             : ATA
+         Model                              : WDC WD1003FBYX-0
+         Firmware                           : 01.01V02
+         Serial number                      : WD-WCAW33503882
+         Reserved Size                      : 538264 KB
+         Used Size                          : 953344 MB
+         Unused Size                        : 64 KB
+         Total Size                         : 953869 MB
+         Write Cache                        : Enabled (write-back)
+         FRU                                : None
+         S.M.A.R.T.                         : No
+         S.M.A.R.T. warnings                : 0
+         Power State                        : Full rpm
+         Supported Power States             : Full rpm,Powered off,Reduced rpm
+         SSD                                : No
+         NCQ status                         : Enabled
+      Device #2
+         Device is a Hard drive
+         State                              : Online
+         Supported                          : Yes
+         Transfer Speed                     : SATA 3.0 Gb/s
+         Reported Channel,Device(T:L)       : 0,2(2:0)
+         Reported Location                  : Enclosure 0, Slot 2
+         Reported ESD(T:L)                  : 2,0(0:0)
+         Vendor                             : ATA
+         Model                              : WDC WD1003FBYX-0
+         Firmware                           : 01.01V02
+         Serial number                      : WD-WCAW33600264
+         Reserved Size                      : 538264 KB
+         Used Size                          : 953344 MB
+         Unused Size                        : 64 KB
+         Total Size                         : 953869 MB
+         Write Cache                        : Enabled (write-back)
+         FRU                                : None
+         S.M.A.R.T.                         : No
+         S.M.A.R.T. warnings                : 0
+         Power State                        : Full rpm
+         Supported Power States             : Full rpm,Powered off,Reduced rpm
+         SSD                                : No
+         NCQ status                         : Enabled
+      Device #3
+         Device is a Hard drive
+         State                              : Online
+         Supported                          : Yes
+         Transfer Speed                     : SATA 3.0 Gb/s
+         Reported Channel,Device(T:L)       : 0,3(3:0)
+         Reported Location                  : Enclosure 0, Slot 3
+         Reported ESD(T:L)                  : 2,0(0:0)
+         Vendor                             : ATA
+         Model                              : WDC WD1003FBYX-0
+         Firmware                           : 01.01V02
+         Serial number                      : WD-WCAW33460248
+         Reserved Size                      : 538264 KB
+         Used Size                          : 953344 MB
+         Unused Size                        : 64 KB
+         Total Size                         : 953869 MB
+         Write Cache                        : Enabled (write-back)
+         FRU                                : None
+         S.M.A.R.T.                         : No
+         S.M.A.R.T. warnings                : 0
+         Power State                        : Full rpm
+         Supported Power States             : Full rpm,Powered off,Reduced rpm
+         SSD                                : No
+         NCQ status                         : Enabled
+      Device #4
+         Device is a Hard drive
+         State                              : Online
+         Supported                          : Yes
+         Transfer Speed                     : SATA 3.0 Gb/s
+         Reported Channel,Device(T:L)       : 0,4(4:0)
+         Reported Location                  : Enclosure 0, Slot 4
+         Reported ESD(T:L)                  : 2,0(0:0)
+         Vendor                             : ATA
+         Model                              : WDC WD1003FBYX-0
+         Firmware                           : 01.01V02
+         Serial number                      : WD-WMAW30415878
+         Reserved Size                      : 538264 KB
+         Used Size                          : 953344 MB
+         Unused Size                        : 64 KB
+         Total Size                         : 953869 MB
+         Write Cache                        : Enabled (write-back)
+         FRU                                : None
+         S.M.A.R.T.                         : No
+         S.M.A.R.T. warnings                : 0
+         Power State                        : Full rpm
+         Supported Power States             : Full rpm,Powered off,Reduced rpm
+         SSD                                : No
+         NCQ status                         : Enabled
+      Device #5
+         Device is a Hard drive
+         State                              : Online
+         Supported                          : Yes
+         Transfer Speed                     : SATA 3.0 Gb/s
+         Reported Channel,Device(T:L)       : 0,5(5:0)
+         Reported Location                  : Enclosure 0, Slot 5
+         Reported ESD(T:L)                  : 2,0(0:0)
+         Vendor                             : ATA
+         Model                              : WDC WD1003FBYX-0
+         Firmware                           : 01.01V02
+         Serial number                      : WD-WMAW30334283
+         Reserved Size                      : 538264 KB
+         Used Size                          : 953344 MB
+         Unused Size                        : 64 KB
+         Total Size                         : 953869 MB
+         Write Cache                        : Enabled (write-back)
+         FRU                                : None
+         S.M.A.R.T.                         : No
+         S.M.A.R.T. warnings                : 0
+         Power State                        : Full rpm
+         Supported Power States             : Full rpm,Powered off,Reduced rpm
+         SSD                                : No
+         NCQ status                         : Enabled
+      Device #6
+         Device is a Hard drive
+         State                              : Online
+         Supported                          : Yes
+         Transfer Speed                     : SATA 3.0 Gb/s
+         Reported Channel,Device(T:L)       : 0,6(6:0)
+         Reported Location                  : Enclosure 0, Slot 6
+         Reported ESD(T:L)                  : 2,0(0:0)
+         Vendor                             : ATA
+         Model                              : WDC WD1003FBYX-0
+         Firmware                           : 01.01V02
+         Serial number                      : WD-WMAW30343017
+         Reserved Size                      : 538264 KB
+         Used Size                          : 953344 MB
+         Unused Size                        : 64 KB
+         Total Size                         : 953869 MB
+         Write Cache                        : Enabled (write-back)
+         FRU                                : None
+         S.M.A.R.T.                         : No
+         S.M.A.R.T. warnings                : 0
+         Power State                        : Full rpm
+         Supported Power States             : Full rpm,Powered off,Reduced rpm
+         SSD                                : No
+         NCQ status                         : Enabled
+      Device #7
+         Device is a Hard drive
+         State                              : Online
+         Supported                          : Yes
+         Transfer Speed                     : SATA 3.0 Gb/s
+         Reported Channel,Device(T:L)       : 0,7(7:0)
+         Reported Location                  : Enclosure 0, Slot 7
+         Reported ESD(T:L)                  : 2,0(0:0)
+         Vendor                             : ATA
+         Model                              : WDC WD1003FBYX-0
+         Firmware                           : 01.01V02
+         Serial number                      : WD-WCAW33458526
+         Reserved Size                      : 538264 KB
+         Used Size                          : 953344 MB
+         Unused Size                        : 64 KB
+         Total Size                         : 953869 MB
+         Write Cache                        : Enabled (write-back)
+         FRU                                : None
+         S.M.A.R.T.                         : No
+         S.M.A.R.T. warnings                : 0
+         Power State                        : Full rpm
+         Supported Power States             : Full rpm,Powered off,Reduced rpm
+         SSD                                : No
+         NCQ status                         : Enabled
+      Device #8
+         Device is a Hard drive
+         State                              : Online
+         Supported                          : Yes
+         Transfer Speed                     : SATA 3.0 Gb/s
+         Reported Channel,Device(T:L)       : 0,8(8:0)
+         Reported Location                  : Enclosure 0, Slot 8
+         Reported ESD(T:L)                  : 2,0(0:0)
+         Vendor                             : ATA
+         Model                              : WDC WD1003FBYX-0
+         Firmware                           : 01.01V02
+         Serial number                      : WD-WCAW35107808
+         Reserved Size                      : 538264 KB
+         Used Size                          : 953344 MB
+         Unused Size                        : 64 KB
+         Total Size                         : 953869 MB
+         Write Cache                        : Enabled (write-back)
+         FRU                                : None
+         S.M.A.R.T.                         : No
+         S.M.A.R.T. warnings                : 0
+         Power State                        : Full rpm
+         Supported Power States             : Full rpm,Powered off,Reduced rpm
+         SSD                                : No
+         NCQ status                         : Enabled
+      Device #9
+         Device is a Hard drive
+         State                              : Online
+         Supported                          : Yes
+         Transfer Speed                     : SATA 3.0 Gb/s
+         Reported Channel,Device(T:L)       : 0,9(9:0)
+         Reported Location                  : Enclosure 0, Slot 9
+         Reported ESD(T:L)                  : 2,0(0:0)
+         Vendor                             : ATA
+         Model                              : WDC WD1003FBYX-0
+         Firmware                           : 01.01V02
+         Serial number                      : WD-WMAW30281173
+         Reserved Size                      : 538264 KB
+         Used Size                          : 953344 MB
+         Unused Size                        : 64 KB
+         Total Size                         : 953869 MB
+         Write Cache                        : Enabled (write-back)
+         FRU                                : None
+         S.M.A.R.T.                         : No
+         S.M.A.R.T. warnings                : 0
+         Power State                        : Full rpm
+         Supported Power States             : Full rpm,Powered off,Reduced rpm
+         SSD                                : No
+         NCQ status                         : Enabled
+      Device #10
+         Device is a Hard drive
+         State                              : Online
+         Supported                          : Yes
+         Transfer Speed                     : SATA 3.0 Gb/s
+         Reported Channel,Device(T:L)       : 0,10(10:0)
+         Reported Location                  : Enclosure 0, Slot 10
+         Reported ESD(T:L)                  : 2,0(0:0)
+         Vendor                             : ATA
+         Model                              : WDC WD1003FBYX-0
+         Firmware                           : 01.01V02
+         Serial number                      : WD-WMAW30262821
+         Reserved Size                      : 538264 KB
+         Used Size                          : 953344 MB
+         Unused Size                        : 64 KB
+         Total Size                         : 953869 MB
+         Write Cache                        : Enabled (write-back)
+         FRU                                : None
+         S.M.A.R.T.                         : No
+         S.M.A.R.T. warnings                : 0
+         Power State                        : Full rpm
+         Supported Power States             : Full rpm,Powered off,Reduced rpm
+         SSD                                : No
+         NCQ status                         : Enabled
+      Device #11
+         Device is a Hard drive
+         State                              : Online
+         Supported                          : Yes
+         Transfer Speed                     : SATA 3.0 Gb/s
+         Reported Channel,Device(T:L)       : 0,11(11:0)
+         Reported Location                  : Enclosure 0, Slot 11
+         Reported ESD(T:L)                  : 2,0(0:0)
+         Vendor                             : ATA
+         Model                              : WDC WD1003FBYX-0
+         Firmware                           : 01.01V02
+         Serial number                      : WD-WMAW30271398
+         Reserved Size                      : 538264 KB
+         Used Size                          : 953344 MB
+         Unused Size                        : 64 KB
+         Total Size                         : 953869 MB
+         Write Cache                        : Enabled (write-back)
+         FRU                                : None
+         S.M.A.R.T.                         : No
+         S.M.A.R.T. warnings                : 0
+         Power State                        : Full rpm
+         Supported Power States             : Full rpm,Powered off,Reduced rpm
+         SSD                                : No
+         NCQ status                         : Enabled
+      Device #12
+         Device is an Enclosure services device
+         Reported Channel,Device(T:L)       : 2,0(0:0)
+         Enclosure ID                       : 0
+         Type                               : SES2
+         Vendor                             : ADAPTEC
+         Model                              : Virtual SGPIO
+         Firmware                           :    1
+         Status of Enclosure services device
+
+
+
+Command completed successfully.

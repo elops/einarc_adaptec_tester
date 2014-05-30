@@ -1,0 +1,65 @@
+Controllers found: 1
+----------------------------------------------------------------------
+Logical device information
+----------------------------------------------------------------------
+Logical device number 0
+   Logical device name                      : 
+   RAID level                               : 10
+   Status of logical device                 : Optimal
+   Size                                     : 56310 MB
+   Stripe-unit size                         : 256 KB
+   Read-cache setting                       : Enabled
+   Read-cache status                        : On
+   Write-cache setting                      : On when protected by battery/ZMM
+   Write-cache status                       : On
+   MaxCache read cache setting              : Enabled
+   MaxCache read cache status               : Off
+   Partitioned                              : Yes
+   Protected by Hot-Spare                   : No
+   Bootable                                 : Yes
+   Failed stripes                           : No
+   Power settings                           : Disabled
+   --------------------------------------------------------
+   Logical device segment information
+   --------------------------------------------------------
+   Group 0, Segment 0                       : Present (Controller:1,Connector:1,Device:0)            32A2K00MF
+   Group 0, Segment 1                       : Present (Controller:1,Connector:1,Device:1)            32A3KZJPF
+   Group 1, Segment 0                       : Present (Controller:1,Connector:1,Device:2)            32A2K02ZF
+   Group 1, Segment 1                       : Present (Controller:1,Connector:1,Device:3)            32A1K1OAF
+   Group 2, Segment 0                       : Present (Controller:1,Enclosure:0,Slot:0)            32A1K1KQF
+   Group 2, Segment 1                       : Present (Controller:1,Enclosure:0,Slot:1)            42N1K9D7F
+   Group 3, Segment 0                       : Present (Controller:1,Enclosure:0,Slot:2)            32A2K00FF
+   Group 3, Segment 1                       : Present (Controller:1,Enclosure:0,Slot:3)            32A1K1KLF
+
+Logical device number 1
+   Logical device name                      : 2
+   RAID level                               : 10
+   Status of logical device                 : Optimal
+   Size                                     : 3757042 MB
+   Stripe-unit size                         : 256 KB
+   Read-cache setting                       : Enabled
+   Read-cache status                        : On
+   Write-cache setting                      : On when protected by battery/ZMM
+   Write-cache status                       : On
+   MaxCache read cache setting              : Enabled
+   MaxCache read cache status               : Off
+   Partitioned                              : Yes
+   Protected by Hot-Spare                   : No
+   Bootable                                 : No
+   Failed stripes                           : No
+   Power settings                           : Disabled
+   --------------------------------------------------------
+   Logical device segment information
+   --------------------------------------------------------
+   Group 0, Segment 0                       : Present (Controller:1,Connector:1,Device:0)            32A2K00MF
+   Group 0, Segment 1                       : Present (Controller:1,Connector:1,Device:1)            32A3KZJPF
+   Group 1, Segment 0                       : Present (Controller:1,Connector:1,Device:2)            32A2K02ZF
+   Group 1, Segment 1                       : Present (Controller:1,Connector:1,Device:3)            32A1K1OAF
+   Group 2, Segment 0                       : Present (Controller:1,Enclosure:0,Slot:0)            32A1K1KQF
+   Group 2, Segment 1                       : Present (Controller:1,Enclosure:0,Slot:1)            42N1K9D7F
+   Group 3, Segment 0                       : Present (Controller:1,Enclosure:0,Slot:2)            32A2K00FF
+   Group 3, Segment 1                       : Present (Controller:1,Enclosure:0,Slot:3)            32A1K1KLF
+
+
+
+Command completed successfully.

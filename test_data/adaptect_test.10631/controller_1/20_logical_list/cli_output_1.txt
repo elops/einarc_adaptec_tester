@@ -1,0 +1,65 @@
+Controllers found: 1
+----------------------------------------------------------------------
+Logical device information
+----------------------------------------------------------------------
+Logical device number 0
+   Logical device name                      : RAID10_1
+   RAID level                               : 10
+   Status of logical device                 : Optimal
+   Size                                     : 59382 MB
+   Stripe-unit size                         : 256 KB
+   Read-cache setting                       : Enabled
+   Read-cache status                        : On
+   Write-cache setting                      : On when protected by battery/ZMM
+   Write-cache status                       : On
+   MaxCache read cache setting              : Enabled
+   MaxCache read cache status               : Off
+   Partitioned                              : Yes
+   Protected by Hot-Spare                   : No
+   Bootable                                 : Yes
+   Failed stripes                           : No
+   Power settings                           : Disabled
+   --------------------------------------------------------
+   Logical device segment information
+   --------------------------------------------------------
+   Group 0, Segment 0                       : Present (Controller:1,Connector:1,Device:0) Z1N3399Y0000C31537JM
+   Group 0, Segment 1                       : Present (Controller:1,Connector:1,Device:1) Z1N33A4S0000C3154CZN
+   Group 1, Segment 0                       : Present (Controller:1,Connector:1,Device:2) Z1N337FC0000C31469K5
+   Group 1, Segment 1                       : Present (Controller:1,Connector:1,Device:3) Z1N339TT0000C3158C8V
+   Group 2, Segment 0                       : Present (Controller:1,Enclosure:0,Slot:0) Z1N336570000C3156KXQ
+   Group 2, Segment 1                       : Present (Controller:1,Enclosure:0,Slot:1) Z1N32DGN0000C314F1D6
+   Group 3, Segment 0                       : Present (Controller:1,Enclosure:0,Slot:2) Z1N3VKWN0000C3337QPF
+   Group 3, Segment 1                       : Present (Controller:1,Enclosure:0,Slot:3) Z1N3399T0000C3157WXP
+
+Logical device number 1
+   Logical device name                      : RAID10_2
+   RAID level                               : 10
+   Status of logical device                 : Optimal
+   Size                                     : 3753970 MB
+   Stripe-unit size                         : 256 KB
+   Read-cache setting                       : Enabled
+   Read-cache status                        : On
+   Write-cache setting                      : On when protected by battery/ZMM
+   Write-cache status                       : On
+   MaxCache read cache setting              : Enabled
+   MaxCache read cache status               : Off
+   Partitioned                              : Yes
+   Protected by Hot-Spare                   : No
+   Bootable                                 : No
+   Failed stripes                           : No
+   Power settings                           : Disabled
+   --------------------------------------------------------
+   Logical device segment information
+   --------------------------------------------------------
+   Group 0, Segment 0                       : Present (Controller:1,Connector:1,Device:0) Z1N3399Y0000C31537JM
+   Group 0, Segment 1                       : Present (Controller:1,Connector:1,Device:1) Z1N33A4S0000C3154CZN
+   Group 1, Segment 0                       : Present (Controller:1,Connector:1,Device:2) Z1N337FC0000C31469K5
+   Group 1, Segment 1                       : Present (Controller:1,Connector:1,Device:3) Z1N339TT0000C3158C8V
+   Group 2, Segment 0                       : Present (Controller:1,Enclosure:0,Slot:0) Z1N336570000C3156KXQ
+   Group 2, Segment 1                       : Present (Controller:1,Enclosure:0,Slot:1) Z1N32DGN0000C314F1D6
+   Group 3, Segment 0                       : Present (Controller:1,Enclosure:0,Slot:2) Z1N3VKWN0000C3337QPF
+   Group 3, Segment 1                       : Present (Controller:1,Enclosure:0,Slot:3) Z1N3399T0000C3157WXP
+
+
+
+Command completed successfully.

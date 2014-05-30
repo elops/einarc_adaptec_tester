@@ -1,0 +1,207 @@
+Controllers found: 1
+----------------------------------------------------------------------
+Physical Device information
+----------------------------------------------------------------------
+      Device #0
+         Device is a Hard drive
+         State                              : Online
+         Supported                          : Yes
+         Transfer Speed                     : SAS 3.0 Gb/s
+         Reported Channel,Device(T:L)       : 0,0(0:0)
+         Reported Location                  : Connector 0, Device 0
+         Vendor                             : SEAGATE
+         Model                              : ST1000NM0001
+         Firmware                           : 0002
+         Serial number                      : Z1N3VZEN0000C333E1TY
+         World-wide name                    : 5000C500563FAAEC
+         Reserved Size                      : 538264 KB
+         Used Size                          : 953343 MB
+         Unused Size                        : 1 MB
+         Total Size                         : 953869 MB
+         Write Cache                        : Enabled (write-back)
+         FRU                                : None
+         S.M.A.R.T.                         : No
+         S.M.A.R.T. warnings                : 0
+         Power State                        : Full rpm
+         Supported Power States             : Full rpm,Powered off
+         SSD                                : No
+         MaxCache Capable                   : No
+         MaxCache Assigned                  : No
+      Device #1
+         Device is a Hard drive
+         State                              : Online
+         Supported                          : Yes
+         Transfer Speed                     : SAS 3.0 Gb/s
+         Reported Channel,Device(T:L)       : 0,1(1:0)
+         Reported Location                  : Connector 0, Device 1
+         Vendor                             : SEAGATE
+         Model                              : ST1000NM0001
+         Firmware                           : 0002
+         Serial number                      : Z1N3VZM10000C3337QRE
+         World-wide name                    : 5000C500563FA64C
+         Reserved Size                      : 538264 KB
+         Used Size                          : 953343 MB
+         Unused Size                        : 1 MB
+         Total Size                         : 953869 MB
+         Write Cache                        : Enabled (write-back)
+         FRU                                : None
+         S.M.A.R.T.                         : No
+         S.M.A.R.T. warnings                : 0
+         Power State                        : Full rpm
+         Supported Power States             : Full rpm,Powered off
+         SSD                                : No
+         MaxCache Capable                   : No
+         MaxCache Assigned                  : No
+      Device #2
+         Device is a Hard drive
+         State                              : Online
+         Supported                          : Yes
+         Transfer Speed                     : SAS 3.0 Gb/s
+         Reported Channel,Device(T:L)       : 0,2(2:0)
+         Reported Location                  : Connector 0, Device 2
+         Vendor                             : SEAGATE
+         Model                              : ST1000NM0001
+         Firmware                           : 0002
+         Serial number                      : Z1N3VX440000C333E5G9
+         World-wide name                    : 5000C500564004EC
+         Reserved Size                      : 538264 KB
+         Used Size                          : 953343 MB
+         Unused Size                        : 1 MB
+         Total Size                         : 953869 MB
+         Write Cache                        : Enabled (write-back)
+         FRU                                : None
+         S.M.A.R.T.                         : No
+         S.M.A.R.T. warnings                : 0
+         Power State                        : Full rpm
+         Supported Power States             : Full rpm,Powered off
+         SSD                                : No
+         MaxCache Capable                   : No
+         MaxCache Assigned                  : No
+      Device #3
+         Device is a Hard drive
+         State                              : Online
+         Supported                          : Yes
+         Transfer Speed                     : SAS 3.0 Gb/s
+         Reported Channel,Device(T:L)       : 0,3(3:0)
+         Reported Location                  : Connector 0, Device 3
+         Vendor                             : SEAGATE
+         Model                              : ST1000NM0001
+         Firmware                           : 0002
+         Serial number                      : Z1N3SC7M0000C332234Q
+         World-wide name                    : 5000C5005632A424
+         Reserved Size                      : 538264 KB
+         Used Size                          : 953343 MB
+         Unused Size                        : 1 MB
+         Total Size                         : 953869 MB
+         Write Cache                        : Enabled (write-back)
+         FRU                                : None
+         S.M.A.R.T.                         : No
+         S.M.A.R.T. warnings                : 0
+         Power State                        : Full rpm
+         Supported Power States             : Full rpm,Powered off
+         SSD                                : No
+         MaxCache Capable                   : No
+         MaxCache Assigned                  : No
+      Device #4
+         Device is a Hard drive
+         State                              : Online
+         Supported                          : Yes
+         Transfer Speed                     : SAS 3.0 Gb/s
+         Reported Channel,Device(T:L)       : 0,4(4:0)
+         Reported Location                  : Connector 1, Device 0
+         Vendor                             : SEAGATE
+         Model                              : ST1000NM0001
+         Firmware                           : 0002
+         Serial number                      : Z1N3VY7X0000C333E317
+         World-wide name                    : 5000C500563FDE94
+         Reserved Size                      : 538264 KB
+         Used Size                          : 953343 MB
+         Unused Size                        : 1 MB
+         Total Size                         : 953869 MB
+         Write Cache                        : Enabled (write-back)
+         FRU                                : None
+         S.M.A.R.T.                         : No
+         S.M.A.R.T. warnings                : 0
+         Power State                        : Full rpm
+         Supported Power States             : Full rpm,Powered off
+         SSD                                : No
+         MaxCache Capable                   : No
+         MaxCache Assigned                  : No
+      Device #5
+         Device is a Hard drive
+         State                              : Online
+         Supported                          : Yes
+         Transfer Speed                     : SAS 3.0 Gb/s
+         Reported Channel,Device(T:L)       : 0,5(5:0)
+         Reported Location                  : Connector 1, Device 1
+         Vendor                             : SEAGATE
+         Model                              : ST1000NM0001
+         Firmware                           : 0002
+         Serial number                      : Z1N3VX4B0000C333E2SV
+         World-wide name                    : 5000C500564004E8
+         Reserved Size                      : 538264 KB
+         Used Size                          : 953343 MB
+         Unused Size                        : 1 MB
+         Total Size                         : 953869 MB
+         Write Cache                        : Enabled (write-back)
+         FRU                                : None
+         S.M.A.R.T.                         : No
+         S.M.A.R.T. warnings                : 0
+         Power State                        : Full rpm
+         Supported Power States             : Full rpm,Powered off
+         SSD                                : No
+         MaxCache Capable                   : No
+         MaxCache Assigned                  : No
+      Device #6
+         Device is a Hard drive
+         State                              : Online
+         Supported                          : Yes
+         Transfer Speed                     : SAS 3.0 Gb/s
+         Reported Channel,Device(T:L)       : 0,6(6:0)
+         Reported Location                  : Connector 1, Device 2
+         Vendor                             : SEAGATE
+         Model                              : ST1000NM0001
+         Firmware                           : 0002
+         Serial number                      : Z1N3VZDY0000C333E3B1
+         World-wide name                    : 5000C500563FAED4
+         Reserved Size                      : 538264 KB
+         Used Size                          : 953343 MB
+         Unused Size                        : 1 MB
+         Total Size                         : 953869 MB
+         Write Cache                        : Enabled (write-back)
+         FRU                                : None
+         S.M.A.R.T.                         : No
+         S.M.A.R.T. warnings                : 0
+         Power State                        : Full rpm
+         Supported Power States             : Full rpm,Powered off
+         SSD                                : No
+         MaxCache Capable                   : No
+         MaxCache Assigned                  : No
+      Device #7
+         Device is a Hard drive
+         State                              : Online
+         Supported                          : Yes
+         Transfer Speed                     : SAS 3.0 Gb/s
+         Reported Channel,Device(T:L)       : 0,7(7:0)
+         Reported Location                  : Connector 1, Device 3
+         Vendor                             : SEAGATE
+         Model                              : ST1000NM0001
+         Firmware                           : 0002
+         Serial number                      : Z1N3VXS40000C333DZ9J
+         World-wide name                    : 5000C500563FF01C
+         Reserved Size                      : 538264 KB
+         Used Size                          : 953343 MB
+         Unused Size                        : 1 MB
+         Total Size                         : 953869 MB
+         Write Cache                        : Enabled (write-back)
+         FRU                                : None
+         S.M.A.R.T.                         : No
+         S.M.A.R.T. warnings                : 0
+         Power State                        : Full rpm
+         Supported Power States             : Full rpm,Powered off
+         SSD                                : No
+         MaxCache Capable                   : No
+         MaxCache Assigned                  : No
+
+
+Command completed successfully.

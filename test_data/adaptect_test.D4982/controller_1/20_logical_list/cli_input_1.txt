@@ -1,0 +1,1 @@
+getconfig 1 ld

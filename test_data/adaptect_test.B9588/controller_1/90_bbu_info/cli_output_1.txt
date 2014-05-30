@@ -1,0 +1,60 @@
+Controllers found: 1
+----------------------------------------------------------------------
+Controller information
+----------------------------------------------------------------------
+   Controller Status                        : Optimal
+   Controller Mode                          : Default/RAID
+   Channel description                      : SAS/SATA
+   Controller Model                         : Adaptec ASR71605
+   Controller Serial Number                 : 3A1713179F9
+   Physical Slot                            : 5
+   Temperature                              : 53 C/ 127 F (Normal)
+   Installed memory                         : 1024 MB
+   Copyback                                 : Disabled
+   Background consistency check             : Disabled
+   Automatic Failover                       : Enabled
+   Global task priority                     : High
+   Performance Mode                         : Default/Dynamic
+   Stayawake period                         : Disabled
+   Spinup limit internal drives             : 0
+   Spinup limit external drives             : 0
+   Defunct disk drive count                 : 0
+   Logical devices/Failed/Degraded          : 2/0/0
+   NCQ status                               : Enabled
+   Statistics data collection mode          : Disabled
+   --------------------------------------------------------
+   Controller Version Information
+   --------------------------------------------------------
+   BIOS                                     : 7.2-0 (30502)
+   Firmware                                 : 7.2-0 (30502)
+   Driver                                   : 1.2-0 (30200)
+   Boot Flash                               : 7.2-0 (30502)
+
+   --------------------------------------------------------
+   Controller Cache Backup Unit Information
+   --------------------------------------------------------
+
+    Overall Backup Unit Status              : Ready
+
+         Backup Unit Type                   : AFM-700/700 LP
+         Non-Volatile Storage Status        : Ready
+         Supercap Status                    : Ready
+
+         -----------------------------------
+         Supercap Information               
+         -----------------------------------
+         Current Temperature                : 26 deg C
+         Threshold Temperature              : 51 deg C
+         Life-time Temperature Recorded     
+         (Min/Max)                          : 23 deg C/ 31 deg C
+
+         Voltage(Present/Max)               : 4926 mV/ 5302 mV
+         Life-time Max Voltage Recorded     : 5432 mV
+
+         Current Drawn(Present/Max)         : 0 mA/ 560 mA
+         Health                             : 100 percent
+         Charge Level                       : 100 percent
+         Estimated Life-time                : 1280 Years, 0 Month
+
+
+Command completed successfully.

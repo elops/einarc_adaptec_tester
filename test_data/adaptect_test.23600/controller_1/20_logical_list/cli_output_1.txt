@@ -1,0 +1,36 @@
+Controllers found: 1
+----------------------------------------------------------------------
+Logical device information
+----------------------------------------------------------------------
+Logical device number 0
+   Logical device name                      : raid-10-a
+   RAID level                               : 10
+   Status of logical device                 : Optimal
+   Size                                     : 1904626 MB
+   Stripe-unit size                         : 256 KB
+   Read-cache setting                       : Enabled
+   Read-cache status                        : On
+   Write-cache setting                      : On when protected by battery/ZMM
+   Write-cache status                       : On
+   MaxCache read cache setting              : Disabled
+   MaxCache read cache status               : Off
+   Partitioned                              : Yes
+   Protected by Hot-Spare                   : No
+   Bootable                                 : Yes
+   Failed stripes                           : No
+   Power settings                           : Disabled
+   --------------------------------------------------------
+   Logical device segment information
+   --------------------------------------------------------
+   Group 0, Segment 0                       : Present (Controller:1,Connector:0,Device:0)      WD-WCASY8292658
+   Group 0, Segment 1                       : Present (Controller:1,Connector:0,Device:1)      WD-WCASYA320754
+   Group 1, Segment 0                       : Present (Controller:1,Connector:0,Device:3)      WD-WCASY9154399
+   Group 1, Segment 1                       : Present (Controller:1,Connector:0,Device:2)      WD-WCASY8434289
+   Group 2, Segment 0                       : Present (Controller:1,Connector:1,Device:1)      WD-WCASYF300885
+   Group 2, Segment 1                       : Present (Controller:1,Connector:1,Device:0)      WD-WCASYC266213
+   Group 3, Segment 0                       : Present (Controller:1,Connector:1,Device:2)      WD-WCASY8292464
+   Group 3, Segment 1                       : Present (Controller:1,Connector:1,Device:3)      WD-WCASYF568248
+
+
+
+Command completed successfully.

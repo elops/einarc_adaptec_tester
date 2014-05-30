@@ -1,0 +1,42 @@
+Controllers found: 1
+----------------------------------------------------------------------
+Controller information
+----------------------------------------------------------------------
+   Controller Status                        : Optimal
+   Channel description                      : SAS/SATA
+   Controller Model                         : Adaptec 5805Z
+   Controller Serial Number                 : 2C311206B04
+   Physical Slot                            : 5
+   Temperature                              : 71 C/ 159 F (Normal)
+   Installed memory                         : 512 MB
+   Copyback                                 : Disabled
+   Background consistency check             : Disabled
+   Automatic Failover                       : Enabled
+   Global task priority                     : High
+   Performance Mode                         : Default/Dynamic
+   Stayawake period                         : Disabled
+   Spinup limit internal drives             : 0
+   Spinup limit external drives             : 0
+   Defunct disk drive count                 : 0
+   Logical devices/Failed/Degraded          : 2/0/0
+   SSDs assigned to MaxCache pool           : 0
+   Maximum SSDs allowed in MaxCache pool    : 8
+   MaxCache Read Cache Pool Size            : 0.000 GB
+   MaxCache flush and fetch rate            : 0
+   MaxCache Read, Write Balance Factor      : 3,1
+   NCQ status                               : Enabled
+   Statistics data collection mode          : Enabled
+   --------------------------------------------------------
+   Controller Version Information
+   --------------------------------------------------------
+   BIOS                                     : 5.2-0 (18948)
+   Firmware                                 : 5.2-0 (18948)
+   Driver                                   : 1.2-0 (30200)
+   Boot Flash                               : 5.2-0 (18948)
+   --------------------------------------------------------
+   Controller ZMM Information
+   --------------------------------------------------------
+   Status                                   : ZMM Optimal
+
+
+Command completed successfully.

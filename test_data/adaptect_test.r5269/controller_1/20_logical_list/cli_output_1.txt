@@ -1,0 +1,73 @@
+Controllers found: 1
+----------------------------------------------------------------------
+Logical device information
+----------------------------------------------------------------------
+Logical device number 0
+   Logical device name                      : Primary 55GB
+   RAID level                               : 10
+   Status of logical device                 : Optimal
+   Size                                     : 56306 MB
+   Stripe-unit size                         : 256 KB
+   Read-cache setting                       : Enabled
+   Read-cache status                        : On
+   Write-cache setting                      : On when protected by battery/ZMM
+   Write-cache status                       : On
+   MaxCache read cache setting              : Enabled
+   MaxCache read cache status               : Off
+   Partitioned                              : Yes
+   Protected by Hot-Spare                   : No
+   Bootable                                 : Yes
+   Failed stripes                           : No
+   Power settings                           : Disabled
+   --------------------------------------------------------
+   Logical device segment information
+   --------------------------------------------------------
+   Group 0, Segment 0                       : Present (Controller:1,Connector:1,Device:0)             Z1W09GMD
+   Group 0, Segment 1                       : Present (Controller:1,Connector:1,Device:1)             Z1W0AHN8
+   Group 1, Segment 0                       : Present (Controller:1,Connector:1,Device:2)             Z1N3PHCA
+   Group 1, Segment 1                       : Present (Controller:1,Connector:1,Device:3)             Z1W09WK9
+   Group 2, Segment 0                       : Present (Controller:1,Connector:2,Device:1)             Z1W0GT6J
+   Group 2, Segment 1                       : Present (Controller:1,Connector:2,Device:0)             Z1W0GSG3
+   Group 3, Segment 0                       : Present (Controller:1,Connector:2,Device:2)             Z1W0GS8K
+   Group 3, Segment 1                       : Present (Controller:1,Connector:2,Device:3)             Z1W0G7Z2
+   Group 4, Segment 0                       : Present (Controller:1,Enclosure:0,Slot:13)             Z1W0GT9X
+   Group 4, Segment 1                       : Present (Controller:1,Enclosure:0,Slot:12)             Z1W0GS5V
+   Group 5, Segment 0                       : Present (Controller:1,Enclosure:0,Slot:14)             Z1W0GT3S
+   Group 5, Segment 1                       : Present (Controller:1,Enclosure:0,Slot:15)             Z1W0GSEB
+
+Logical device number 1
+   Logical device name                      : Secondary
+   RAID level                               : 10
+   Status of logical device                 : Optimal
+   Size                                     : 5663732 MB
+   Stripe-unit size                         : 256 KB
+   Read-cache setting                       : Enabled
+   Read-cache status                        : On
+   Write-cache setting                      : On when protected by battery/ZMM
+   Write-cache status                       : On
+   MaxCache read cache setting              : Enabled
+   MaxCache read cache status               : Off
+   Partitioned                              : Yes
+   Protected by Hot-Spare                   : No
+   Bootable                                 : No
+   Failed stripes                           : No
+   Power settings                           : Disabled
+   --------------------------------------------------------
+   Logical device segment information
+   --------------------------------------------------------
+   Group 0, Segment 0                       : Present (Controller:1,Connector:1,Device:0)             Z1W09GMD
+   Group 0, Segment 1                       : Present (Controller:1,Connector:1,Device:1)             Z1W0AHN8
+   Group 1, Segment 0                       : Present (Controller:1,Connector:1,Device:2)             Z1N3PHCA
+   Group 1, Segment 1                       : Present (Controller:1,Connector:1,Device:3)             Z1W09WK9
+   Group 2, Segment 0                       : Present (Controller:1,Connector:2,Device:1)             Z1W0GT6J
+   Group 2, Segment 1                       : Present (Controller:1,Connector:2,Device:0)             Z1W0GSG3
+   Group 3, Segment 0                       : Present (Controller:1,Connector:2,Device:2)             Z1W0GS8K
+   Group 3, Segment 1                       : Present (Controller:1,Connector:2,Device:3)             Z1W0G7Z2
+   Group 4, Segment 0                       : Present (Controller:1,Enclosure:0,Slot:13)             Z1W0GT9X
+   Group 4, Segment 1                       : Present (Controller:1,Enclosure:0,Slot:12)             Z1W0GS5V
+   Group 5, Segment 0                       : Present (Controller:1,Enclosure:0,Slot:14)             Z1W0GT3S
+   Group 5, Segment 1                       : Present (Controller:1,Enclosure:0,Slot:15)             Z1W0GSEB
+
+
+
+Command completed successfully.
