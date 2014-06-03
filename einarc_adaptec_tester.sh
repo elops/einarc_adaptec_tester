@@ -90,6 +90,7 @@ if [ -e "$lock_dir" ]; then
 else
   trap _exit EXIT
   trap '_err $LINENO' ERR
+  set -o errtrace
   mkdir -p "$lock_dir"
 fi
 
